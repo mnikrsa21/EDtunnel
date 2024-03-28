@@ -9,8 +9,9 @@ let userID = 'd342d11e-d424-4583-b36e-524ab1f0afa4';
 const proxyIPs = ['23.162.136.169', 'cdn.xn--b6gac.eu.org', 'cdn-all.xn--b6gac.eu.org', 'edgetunnel.anycast.eu.org'];
 
 //let proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
-//let proxyIP = '8.219.201.8';
-let proxyIP = '8.107.44.181';
+//let proxyIP = '8.219.201.8'; //sshocean
+//let proxyIP = '8.107.44.181'; //free
+let proxyIP = '3.1.248.232'; //free ec2
 
 let dohURL = 'https://sky.rethinkdns.com/1:-Pf_____9_8A_AMAIgE8kMABVDDmKOHTAKg='; // https://cloudflare-dns.com/dns-query or https://dns.google/dns-query
 
